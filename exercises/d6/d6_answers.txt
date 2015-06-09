@@ -1,0 +1,3 @@
+git init - is initializing git in your terminal
+git add - is adding the files in the directory to the staging area
+git commit - adding files to git repisotory
